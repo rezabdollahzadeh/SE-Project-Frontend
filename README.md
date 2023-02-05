@@ -12,7 +12,7 @@ This repository is developed as the final project for the **Software Engineering
 -   [Erfan Zadsoltani](https://github.com/erfanzadsoltani): Backend Team Leader
 -   [Mahsa Faramarzi](https://github.com/mahsafmz): Backend Developer
 -   [Amir Karimi](https://github.com/Amirkarimi02): Backend Developer
--   Hadi Soleimani: UI Designer
+-   [Hadi Soleimani](https://github.com/HadiSoleimani): UI Designer
 -   [Mohammad Reza Abdollahzadeh](https://github.com/rezabdollahzadeh): Frontend Developer
 
 ## Technologies:
